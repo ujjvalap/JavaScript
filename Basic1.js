@@ -104,3 +104,6 @@ console.log(typeof Number(num));
 var name="Ujjval ";
 console.log(typeof String(name));
 console.log(typeof name + "");
+
+console.log("Hello world");
+
